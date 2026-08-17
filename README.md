@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yaswanth Sai V
 
-Backend & ML engineer focused on **distributed systems**, **LLM-powered applications**, and **edge–cloud machine learning pipelines**.
+Backend & ML engineer focused on **distributed systems**, **LLM-powered applications**, and **machine learning pipelines**.
 
 - 💼 Software Engineer
 - 🎓 **M.S. in Computer Science**, Auburn University at Montgomery (2024–2025)
